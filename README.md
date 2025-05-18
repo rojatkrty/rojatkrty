@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Merhaba, ben Rojat!
 
-<!--
-**rojatkrty/rojatkrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben 19 yaşındayım ve yazılım dünyasına yeni adım attım. Kod yazmayı, üretmeyi ve her gün yeni bir şeyler öğrenmeyi çok seviyorum.
 
-Here are some ideas to get you started:
+🎯 **Hedefim**: Kendimi geliştirerek profesyonel bir yazılımcı olmak ve kaliteli projeler üretmek.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Şu anda öğrendiğim teknolojiler**:
+- HTML / CSS
+- Python (başlangıç seviyesi)
+- Git ve GitHub
+
+📚 **İlgi alanlarım**:
+- Web geliştirme
+- Uygulama geliştirme
+- Yapay zeka (ileride öğrenmek istiyorum)
+
+💡 **Ne yapıyorum?**
+Şu an temel konuları öğreniyorum ve küçük projelerle pratik yapıyorum. GitHub'ı aktif kullanarak gelişim sürecimi belgelemek istiyorum.
+
+📬 **İletişim**: [rojatkrty21@gmail.com] – her zaman fikir alışverişine açığım!
+
+---
+
+> Bu profil, yolculuğumun başı. Zamanla büyüyen projelerle dolacak! 🚀  
