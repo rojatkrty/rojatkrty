@@ -1,13 +1,13 @@
 ### 👋 Merhaba, ben Rojat!
 
-Ben 19 yaşındayım ve yazılım dünyasına yeni adım attım. Kod yazmayı, üretmeyi ve her gün yeni bir şeyler öğrenmeyi çok seviyorum.
+Ben 19 yaşındayım ve yazılım dünyasına yeni adım attım. Kod yazmayı, üretmeyi ve her gün yeni bir şeyler öğrenmeye meraklıyım
 
 🎯 **Hedefim**: Kendimi geliştirerek profesyonel bir yazılımcı olmak ve kaliteli projeler üretmek.
 
 🔧 **Şu anda öğrendiğim teknolojiler**:
 - HTML / CSS
 - Python (başlangıç seviyesi)
-- Git ve GitHub
+- c#
 
 📚 **İlgi alanlarım**:
 - Web geliştirme
